@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+    font-family: Arial;
+    background-image: url('img/backdrop.png');
+    background-size: cover;
+}
+
+.main {
+    width: 70vw;
+    margin: auto;
+    padding: 40px;
+}
+
+.info-containers {
+    margin-top: 150px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+    color: #FFFFFF;
+}
+
+h2 {
+    color: #FFFFFF;
+}
+
+p {
+    font-size: 25px;
+    color: #FFFFFF;
+}
