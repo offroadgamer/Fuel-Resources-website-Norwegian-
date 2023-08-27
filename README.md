@@ -1,1 +1,1 @@
-# Energy Resources website (Norwegian)
+# Fuel Resources website (Norwegian)
